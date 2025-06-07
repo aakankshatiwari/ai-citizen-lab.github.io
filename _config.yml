@@ -3,7 +3,7 @@ email: ai.citizen.lab@gmail.com
 description: >-
   Aakanksha Tiwari's civic AI innovation hub, building ethical AI solutions for citizens.
 baseurl: "" # leave this empty if deploying at root
-url: "https://aakankshatiwari.github.io"
+url: "https://ai-citizen-lab.github.io"
 
 markdown: kramdown
 theme: minima
