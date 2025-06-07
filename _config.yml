@@ -1,0 +1,13 @@
+title: AI Citizen Lab
+email: ai.citizen.lab@gmail.com
+description: >-
+  Aakanksha Tiwari's civic AI innovation hub, building ethical AI solutions for citizens.
+baseurl: "" # leave this empty if deploying at root
+url: "https://aakankshatiwari.github.io"
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
